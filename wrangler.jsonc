@@ -2,6 +2,6 @@
   "name": "mi-conversor-divisas",
   "compatibility_date": "2026-01-30",
   "assets": {
-    "directory": "./WEBCONV"
+    "directory": "./conversor"
   }
 }
